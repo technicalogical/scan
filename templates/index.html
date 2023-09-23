@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>MSSL QA Tool</title>
+<link rel="stylesheet" href="/scan/flask-app/css/bulma/css/bulma.min.css">
+</head>
+<body>
+<div class="container">
+<div class="box">
+<h1 class="title">Managed SSL QA Tool</h1>
+    <form method="POST">
+	<div class="field">
+	<input class="input is-primary" name="domain" type="text" placeholder="Enter Domain">
+        </div>
+	<div class="field">
+	<label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="protocol" > Check protocol</label>
+        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="technology" > Check technology</label>
+        <div class="is-hidden"><label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="ports" > Check open ports</label></div>
+        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="hosting" > Check hosting info</label>
+        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="ssl" > Check SSL</label>
+	<label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="mixed_content" > Check for mixed content</label></br>
+        </div>
+	<div class="field">
+	<button class="button is-primary"  type="submit">Scan</button>
+    	</div>
+     </form>
+</div>
+
+    {% if results %}
+    <div class="columns">
+        <div class="column">
+<div class="box">
+        {% if 'protocol' in checks %}
+            <h2>Protocol: </h2>
+        <p style="color: {{ results.protocol.color }};"> {{ results.protocol.protocol }}</p>
+        {% endif %}</div>
+    </div>
+    <div class="column">
+<div class="box">
+        {% if 'technology' in checks %}
+            <h2>Technologies:</h2>
+            <ul>
+            {% for tech, details in results.technologies.items() %}
+                <li>{{ tech }}: {{ details|join(', ') }}</li>
+            {% endfor %}
+            </ul>
+        {% endif %}</div>
+        </div>
+        <div class="column">
+<div class="box">
+        {% if 'ports' in checks %}
+            <h2>Open ports:</h2>
+            <p>{{ results.open_ports|join(', ') }}</p>
+        {% endif %}</div>
+        </div>
+        <div class="column">
+<div class="box">
+        {% if 'hosting' in checks %}
+            <h2>Hosting info:</h2>
+            <pre>{{ results.hosting }}</pre>
+        {% endif %}</div>
+        </div>
+        
+            <div class="column">        
+<div class="box">
+	{% if 'ssl' in checks %}
+    	   <h2>SSL info:</h2>
+    	   <p>Issuer: {{ results.ssl.issuer }}</p>
+    	   <p>Validity start: {{ results.ssl.validity_start }}</p>
+	   <p>Validity end: {{ results.ssl.validity_end }}</p>
+    	   <p>Serial number: {{ results.ssl.serial_number }}</p>
+	{% endif %}</div>
+    </div>
+    </div>
+    <div class="columns">
+        <div class="column">
+<div class="box">
+    {% if 'mixed_content' in checks %}
+    <h2>Pages with mixed content: {{ results['mixed_content']['num_bad_pages'] }}</h2>
+    <!-- Your existing code to list bad pages... -->
+
+    <h2>Pages without mixed content: {{ results['mixed_content']['num_good_pages'] }}</h2>
+        <h2>Pages with mixed content:</h2>
+        <ul>
+        {% for page, details in results['mixed_content']['mixed'].items() %}
+            {% if details['type'] == 'confirmed' %}
+                <li class="has-text-danger-dark">{{ page }} contains mixed content: {{ details['url'] }}</li>
+            {% elif details['type'] == 'potential' %}
+                <li class="has-text-warning-dark">{{ page }} contains potential mixed content: {{ details['url'] }}</li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+
+        <h2>Pages without mixed content:</h2>
+        <ul>
+        {% for page in results['mixed_content']['clean'] %}
+            <li class="has-text-success-dark">{{ page }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</div>
+</div>
+</div>
+    {% endif %}
+</div>
+</body>
+</html>

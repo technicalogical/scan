@@ -1,0 +1,909 @@
+09/22/2023 04:51:40 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 04:51:40 PM [33mPress CTRL+C to quit[0m
+09/22/2023 04:52:04 PM Domain entered: altsa.co.za
+09/22/2023 04:52:36 PM Domain entered: blehman.dev
+09/22/2023 04:52:52 PM 127.0.0.1 - - [22/Sep/2023 16:52:52] "POST / HTTP/1.0" 200 -
+09/22/2023 04:53:08 PM 127.0.0.1 - - [22/Sep/2023 16:53:08] "POST / HTTP/1.0" 200 -
+09/22/2023 05:03:51 PM 127.0.0.1 - - [22/Sep/2023 17:03:51] "GET / HTTP/1.0" 200 -
+09/22/2023 05:13:10 PM Domain entered: altsa.co.za
+09/22/2023 05:13:11 PM 127.0.0.1 - - [22/Sep/2023 17:13:11] "POST / HTTP/1.0" 200 -
+09/22/2023 05:13:15 PM Domain entered: altsa.co.za
+09/22/2023 05:13:15 PM 127.0.0.1 - - [22/Sep/2023 17:13:15] "POST / HTTP/1.0" 200 -
+09/22/2023 05:13:20 PM Domain entered: altsa.co.za
+09/22/2023 05:13:21 PM 127.0.0.1 - - [22/Sep/2023 17:13:21] "POST / HTTP/1.0" 200 -
+09/22/2023 05:13:39 PM Domain entered: altsa.co.za
+09/22/2023 05:13:48 PM Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+09/22/2023 05:18:29 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 05:18:29 PM [33mPress CTRL+C to quit[0m
+09/22/2023 05:18:38 PM 127.0.0.1 - - [22/Sep/2023 17:18:38] "GET / HTTP/1.0" 200 -
+09/22/2023 05:18:45 PM Domain entered: blehman.dev
+09/22/2023 05:18:48 PM 127.0.0.1 - - [22/Sep/2023 17:18:48] "POST / HTTP/1.0" 200 -
+09/22/2023 05:19:23 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 05:19:23 PM [33mPress CTRL+C to quit[0m
+09/22/2023 05:19:31 PM Domain entered: luvrideshare.com
+09/22/2023 05:19:34 PM 127.0.0.1 - - [22/Sep/2023 17:19:34] "POST / HTTP/1.0" 200 -
+09/22/2023 05:21:02 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 05:21:02 PM [33mPress CTRL+C to quit[0m
+09/22/2023 05:21:09 PM Domain entered: luvrideshare.com
+09/22/2023 05:21:10 PM 127.0.0.1 - - [22/Sep/2023 17:21:10] "POST / HTTP/1.0" 200 -
+09/22/2023 05:22:19 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 05:22:19 PM [33mPress CTRL+C to quit[0m
+09/22/2023 05:22:23 PM Domain entered: luvrideshare.com
+09/22/2023 05:22:24 PM 127.0.0.1 - - [22/Sep/2023 17:22:24] "POST / HTTP/1.0" 200 -
+09/22/2023 05:22:56 PM Domain entered: luvrideshare.com
+09/22/2023 05:23:00 PM 127.0.0.1 - - [22/Sep/2023 17:23:00] "POST / HTTP/1.0" 200 -
+09/22/2023 05:26:49 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 05:26:49 PM [33mPress CTRL+C to quit[0m
+09/22/2023 05:26:54 PM 127.0.0.1 - - [22/Sep/2023 17:26:54] "GET / HTTP/1.0" 200 -
+09/22/2023 05:27:00 PM Domain entered: luvrideshare.com
+09/22/2023 05:27:02 PM 127.0.0.1 - - [22/Sep/2023 17:27:02] "POST / HTTP/1.0" 200 -
+09/22/2023 05:27:09 PM Domain entered: luvrideshare.com
+09/22/2023 05:27:27 PM 127.0.0.1 - - [22/Sep/2023 17:27:27] "POST / HTTP/1.0" 200 -
+09/22/2023 05:32:38 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 05:32:38 PM [33mPress CTRL+C to quit[0m
+09/22/2023 05:32:46 PM 127.0.0.1 - - [22/Sep/2023 17:32:46] "GET / HTTP/1.0" 200 -
+09/22/2023 05:32:56 PM Domain entered: luvrideshare.com
+09/22/2023 05:33:14 PM 127.0.0.1 - - [22/Sep/2023 17:33:14] "POST / HTTP/1.0" 200 -
+09/22/2023 05:38:12 PM 127.0.0.1 - - [22/Sep/2023 17:38:12] "GET / HTTP/1.0" 200 -
+09/22/2023 05:38:36 PM 127.0.0.1 - - [22/Sep/2023 17:38:36] "GET / HTTP/1.0" 200 -
+09/22/2023 05:38:52 PM Domain entered: www.mr3consulting.com
+09/22/2023 05:38:56 PM Domain entered: angelinesviolinstudio.com
+09/22/2023 05:38:57 PM Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+09/22/2023 05:38:58 PM 127.0.0.1 - - [22/Sep/2023 17:38:58] "POST / HTTP/1.0" 200 -
+09/22/2023 05:39:06 PM 127.0.0.1 - - [22/Sep/2023 17:39:06] "GET / HTTP/1.0" 200 -
+09/22/2023 05:41:24 PM Domain entered: www.mr3consulting.com
+09/22/2023 05:41:40 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 978, in _validate_conn
+    conn.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 309, in connect
+    conn = self._new_conn()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 164, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x7f4a45932080>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.mr3consulting.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/pages/%5C%22https:%5C/%5C/www.ecolab.com%5C/%5C%22 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a45932080>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 38, in home
+    results['mixed_content'] = check_mixed_content(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 99, in check_mixed_content
+    response = requests.get(page)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='www.mr3consulting.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/pages/%5C%22https:%5C/%5C/www.ecolab.com%5C/%5C%22 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a45932080>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+09/22/2023 05:41:40 PM 127.0.0.1 - - [22/Sep/2023 17:41:40] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:42:18 PM 127.0.0.1 - - [22/Sep/2023 17:42:18] "GET / HTTP/1.0" 200 -
+09/22/2023 05:42:40 PM 127.0.0.1 - - [22/Sep/2023 17:42:40] "GET / HTTP/1.0" 200 -
+09/22/2023 05:42:52 PM Domain entered: remote.koboproductsinc.com
+09/22/2023 05:43:05 PM Domain entered: www.mr3consulting.com
+09/22/2023 05:43:35 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 164, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x7f4a45932c50>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.mr3consulting.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4a45932c50>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 30, in home
+    results['protocol'] = check_protocol(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 48, in check_protocol
+    response = requests.get(domain)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='www.mr3consulting.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4a45932c50>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+09/22/2023 05:43:35 PM 127.0.0.1 - - [22/Sep/2023 17:43:35] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:45:01 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 164, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x7f4a45931390>, 'Connection to remote.koboproductsinc.com timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='remote.koboproductsinc.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4a45931390>, 'Connection to remote.koboproductsinc.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 30, in home
+    results['protocol'] = check_protocol(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 48, in check_protocol
+    response = requests.get(domain)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='remote.koboproductsinc.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4a45931390>, 'Connection to remote.koboproductsinc.com timed out. (connect timeout=None)'))
+09/22/2023 05:45:01 PM 127.0.0.1 - - [22/Sep/2023 17:45:01] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:45:15 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 164, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x7f4a45777d30>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.mr3consulting.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4a45777d30>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 30, in home
+    results['protocol'] = check_protocol(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 48, in check_protocol
+    response = requests.get(domain)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='www.mr3consulting.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4a45777d30>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+09/22/2023 05:45:15 PM 127.0.0.1 - - [22/Sep/2023 17:45:15] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:45:20 PM Domain entered: www.mr3consulting.com
+09/22/2023 05:47:31 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 978, in _validate_conn
+    conn.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 309, in connect
+    conn = self._new_conn()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 164, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x7f4a45930370>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.mr3consulting.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a45930370>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 38, in home
+    results['mixed_content'] = check_mixed_content(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 99, in check_mixed_content
+    response = requests.get(page)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='www.mr3consulting.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a45930370>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+09/22/2023 05:47:31 PM 127.0.0.1 - - [22/Sep/2023 17:47:31] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:51:19 PM 127.0.0.1 - - [22/Sep/2023 17:51:19] "GET / HTTP/1.0" 200 -
+09/22/2023 05:51:54 PM Domain entered: www.mr3consulting.com
+09/22/2023 05:54:04 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 164, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x7f4a45a6fb20>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.mr3consulting.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4a45a6fb20>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 30, in home
+    results['protocol'] = check_protocol(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 48, in check_protocol
+    response = requests.get(domain)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='www.mr3consulting.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4a45a6fb20>, 'Connection to www.mr3consulting.com timed out. (connect timeout=None)'))
+09/22/2023 05:54:04 PM 127.0.0.1 - - [22/Sep/2023 17:54:04] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:55:00 PM 127.0.0.1 - - [22/Sep/2023 17:55:00] "GET / HTTP/1.0" 200 -
+09/22/2023 05:55:13 PM Domain entered: google.com
+09/22/2023 05:55:13 PM 127.0.0.1 - - [22/Sep/2023 17:55:13] "POST / HTTP/1.0" 200 -
+09/22/2023 05:55:21 PM Domain entered: google.com
+09/22/2023 05:55:22 PM 127.0.0.1 - - [22/Sep/2023 17:55:22] "POST / HTTP/1.0" 200 -
+09/22/2023 05:56:01 PM Domain entered: google.com
+09/22/2023 05:56:02 PM 127.0.0.1 - - [22/Sep/2023 17:56:02] "POST / HTTP/1.0" 200 -
+09/22/2023 05:56:35 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 05:56:35 PM [33mPress CTRL+C to quit[0m
+09/22/2023 05:56:47 PM Domain entered: luvrideshare.com
+09/22/2023 05:56:52 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 38, in home
+    results['mixed_content'] = check_mixed_content(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 123, in check_mixed_content
+    return {'mixed': mixed_content_pages, 'clean': list(clean_pages)}
+NameError: name 'clean_pages' is not defined
+09/22/2023 05:56:52 PM 127.0.0.1 - - [22/Sep/2023 17:56:52] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:57:03 PM Domain entered: <script>alert('hi');</script>
+09/22/2023 05:57:03 PM 127.0.0.1 - - [22/Sep/2023 17:57:03] "POST / HTTP/1.0" 200 -
+09/22/2023 05:57:08 PM Domain entered: <script>alert('hi');</script>
+09/22/2023 05:57:08 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 171, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f9ead583040>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host="%3cscript%3ealert('hi');%3c", port=80): Max retries exceeded with url: /script%3E (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ead583040>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 30, in home
+    results['protocol'] = check_protocol(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 48, in check_protocol
+    response = requests.get(domain)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host="%3cscript%3ealert('hi');%3c", port=80): Max retries exceeded with url: /script%3E (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ead583040>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+09/22/2023 05:57:08 PM 127.0.0.1 - - [22/Sep/2023 17:57:08] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:57:22 PM Domain entered: <script>alert('hi');</script>
+09/22/2023 05:57:22 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 40, in home
+    results['ssl'] = check_ssl(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 75, in check_ssl
+    cert = ssl.get_server_certificate((domain, 443))
+  File "/usr/lib/python3.10/ssl.py", line 1523, in get_server_certificate
+    with create_connection(addr, timeout=timeout) as sock:
+  File "/usr/lib/python3.10/socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+09/22/2023 05:57:22 PM 127.0.0.1 - - [22/Sep/2023 17:57:22] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:58:05 PM Domain entered: <<<
+09/22/2023 05:58:05 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 171, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f9ead5825c0>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='%3c%3c%3c', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ead5825c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 30, in home
+    results['protocol'] = check_protocol(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 48, in check_protocol
+    response = requests.get(domain)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='%3c%3c%3c', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ead5825c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+09/22/2023 05:58:05 PM 127.0.0.1 - - [22/Sep/2023 17:58:05] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 05:59:48 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 05:59:48 PM [33mPress CTRL+C to quit[0m
+09/22/2023 05:59:52 PM 127.0.0.1 - - [22/Sep/2023 17:59:52] "GET / HTTP/1.0" 200 -
+09/22/2023 05:59:56 PM Domain entered: luvrideshare.com
+09/22/2023 05:59:59 PM 127.0.0.1 - - [22/Sep/2023 17:59:59] "POST / HTTP/1.0" 200 -
+09/22/2023 06:00:16 PM Domain entered: blehman.dev
+09/22/2023 06:00:28 PM 127.0.0.1 - - [22/Sep/2023 18:00:28] "POST / HTTP/1.0" 200 -
+09/22/2023 06:03:19 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 06:03:19 PM [33mPress CTRL+C to quit[0m
+09/22/2023 06:03:29 PM Domain entered: luvrideshare.com
+09/22/2023 06:03:32 PM 127.0.0.1 - - [22/Sep/2023 18:03:32] "POST / HTTP/1.0" 200 -
+09/22/2023 06:04:32 PM Domain entered: ../tmp
+09/22/2023 06:04:32 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/encodings/idna.py", line 163, in encode
+    raise UnicodeError("label empty or too long")
+UnicodeError: label empty or too long
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 40, in home
+    results['ssl'] = check_ssl(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 75, in check_ssl
+    cert = ssl.get_server_certificate((domain, 443))
+  File "/usr/lib/python3.10/ssl.py", line 1523, in get_server_certificate
+    with create_connection(addr, timeout=timeout) as sock:
+  File "/usr/lib/python3.10/socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+UnicodeError: encoding with 'idna' codec failed (UnicodeError: label empty or too long)
+09/22/2023 06:04:32 PM 127.0.0.1 - - [22/Sep/2023 18:04:32] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 06:06:24 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 06:06:24 PM [33mPress CTRL+C to quit[0m
+09/22/2023 06:06:55 PM Domain entered: luvrideshare.com
+09/22/2023 06:06:58 PM 127.0.0.1 - - [22/Sep/2023 18:06:58] "POST / HTTP/1.0" 200 -
+09/22/2023 06:07:24 PM Domain entered: blehman.dev
+09/22/2023 06:07:34 PM 127.0.0.1 - - [22/Sep/2023 18:07:34] "POST / HTTP/1.0" 200 -
+09/22/2023 06:14:08 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 06:14:08 PM [33mPress CTRL+C to quit[0m
+09/22/2023 06:14:16 PM Domain entered: luvrideshare.com
+09/22/2023 06:14:19 PM 127.0.0.1 - - [22/Sep/2023 18:14:19] "POST / HTTP/1.0" 200 -
+09/22/2023 06:14:27 PM Domain entered: blehman.dev
+09/22/2023 06:14:39 PM 127.0.0.1 - - [22/Sep/2023 18:14:39] "POST / HTTP/1.0" 200 -
+09/22/2023 06:19:10 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 06:19:10 PM [33mPress CTRL+C to quit[0m
+09/22/2023 06:19:16 PM Domain entered: luvrideshare.com
+09/22/2023 06:19:19 PM 127.0.0.1 - - [22/Sep/2023 18:19:19] "POST / HTTP/1.0" 200 -
+09/22/2023 06:19:31 PM Domain entered: blehman.dev
+09/22/2023 06:19:41 PM 127.0.0.1 - - [22/Sep/2023 18:19:41] "POST / HTTP/1.0" 200 -
+09/22/2023 06:21:05 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:21:08 PM 127.0.0.1 - - [22/Sep/2023 18:21:08] "POST / HTTP/1.0" 200 -
+09/22/2023 06:21:12 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:21:14 PM 127.0.0.1 - - [22/Sep/2023 18:21:14] "POST / HTTP/1.0" 200 -
+09/22/2023 06:21:21 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:21:22 PM 127.0.0.1 - - [22/Sep/2023 18:21:22] "POST / HTTP/1.0" 200 -
+09/22/2023 06:21:27 PM Domain entered: 
+09/22/2023 06:21:27 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 30, in home
+    results['protocol'] = check_protocol(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 48, in check_protocol
+    response = requests.get(domain)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 516, in request
+    prep = self.prepare_request(req)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 449, in prepare_request
+    p.prepare(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/models.py", line 314, in prepare
+    self.prepare_url(url, params)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/models.py", line 391, in prepare_url
+    raise InvalidURL("Invalid URL %r: No host supplied" % url)
+requests.exceptions.InvalidURL: Invalid URL 'http://': No host supplied
+09/22/2023 06:21:27 PM 127.0.0.1 - - [22/Sep/2023 18:21:27] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 06:21:55 PM 127.0.0.1 - - [22/Sep/2023 18:21:55] "GET / HTTP/1.0" 200 -
+09/22/2023 06:22:01 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:22:01 PM 127.0.0.1 - - [22/Sep/2023 18:22:01] "POST / HTTP/1.0" 200 -
+09/22/2023 06:22:06 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:22:06 PM 127.0.0.1 - - [22/Sep/2023 18:22:06] "POST / HTTP/1.0" 200 -
+09/22/2023 06:22:09 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:22:12 PM 127.0.0.1 - - [22/Sep/2023 18:22:12] "POST / HTTP/1.0" 200 -
+09/22/2023 06:22:18 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:22:18 PM 127.0.0.1 - - [22/Sep/2023 18:22:18] "POST / HTTP/1.0" 200 -
+09/22/2023 06:22:25 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:22:28 PM 127.0.0.1 - - [22/Sep/2023 18:22:28] "POST / HTTP/1.0" 200 -
+09/22/2023 06:29:26 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:29:29 PM 127.0.0.1 - - [22/Sep/2023 18:29:29] "POST / HTTP/1.0" 200 -
+09/22/2023 06:30:17 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 06:30:17 PM [33mPress CTRL+C to quit[0m
+09/22/2023 06:30:26 PM Domain entered: luvrideshare.com
+09/22/2023 06:30:42 PM 127.0.0.1 - - [22/Sep/2023 18:30:42] "POST / HTTP/1.0" 200 -
+09/22/2023 06:30:53 PM Domain entered: blehman.dev
+09/22/2023 06:31:29 PM 127.0.0.1 - - [22/Sep/2023 18:31:29] "POST / HTTP/1.0" 200 -
+09/22/2023 06:32:36 PM Domain entered: www.mr3consulting.com
+09/22/2023 06:32:40 PM Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+09/22/2023 06:48:49 PM Exception on / [POST]
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 978, in _validate_conn
+    conn.connect()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connection.py", line 362, in connect
+    self.sock = ssl_wrap_socket(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/ssl_.py", line 386, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.10/ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/usr/lib/python3.10/ssl.py", line 1071, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.10/ssl.py", line 1342, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 410, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 384, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 335, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.mr3consulting.com', port=443): Read timed out. (read timeout=None)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/var/www/html/scan/flask-app/app.py", line 38, in home
+    results['mixed_content'] = check_mixed_content(domain)
+  File "/var/www/html/scan/flask-app/app.py", line 105, in check_mixed_content
+    response = requests.get(page)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/var/www/html/scan/flask-app/venv/lib/python3.10/site-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.mr3consulting.com', port=443): Read timed out. (read timeout=None)
+09/22/2023 06:48:49 PM 127.0.0.1 - - [22/Sep/2023 18:48:49] "[35m[1mPOST / HTTP/1.0[0m" 500 -
+09/22/2023 07:01:26 PM 127.0.0.1 - - [22/Sep/2023 19:01:26] "GET / HTTP/1.0" 200 -
+09/22/2023 07:05:23 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 07:05:23 PM [33mPress CTRL+C to quit[0m
+09/22/2023 07:05:56 PM Domain entered: blehman.dev
+09/22/2023 07:06:08 PM 127.0.0.1 - - [22/Sep/2023 19:06:08] "POST / HTTP/1.0" 200 -
+09/22/2023 07:07:10 PM Domain entered: luvrideshare.com
+09/22/2023 07:07:14 PM 127.0.0.1 - - [22/Sep/2023 19:07:14] "POST / HTTP/1.0" 200 -
+09/22/2023 07:07:31 PM Domain entered: www.mr3consulting.com
+09/22/2023 07:07:34 PM 127.0.0.1 - - [22/Sep/2023 19:07:34] "POST / HTTP/1.0" 200 -
+09/22/2023 07:08:03 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 07:08:03 PM [33mPress CTRL+C to quit[0m
+09/22/2023 07:08:16 PM Domain entered: www.mr3consulting.com
+09/22/2023 07:08:37 PM Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+09/22/2023 07:11:25 PM 127.0.0.1 - - [22/Sep/2023 19:11:25] "GET / HTTP/1.0" 200 -
+09/22/2023 07:11:36 PM Domain entered: mr3consulting.com
+09/22/2023 07:11:41 PM 127.0.0.1 - - [22/Sep/2023 19:11:41] "POST / HTTP/1.0" 200 -
+09/22/2023 07:11:56 PM Domain entered: https://www.mr3consulting.com
+09/22/2023 07:11:56 PM 127.0.0.1 - - [22/Sep/2023 19:11:56] "POST / HTTP/1.0" 200 -
+09/22/2023 07:12:05 PM 127.0.0.1 - - [22/Sep/2023 19:12:05] "POST / HTTP/1.0" 200 -
+09/22/2023 07:12:07 PM Domain entered: www.mr3consulting.com
+09/22/2023 07:12:12 PM 127.0.0.1 - - [22/Sep/2023 19:12:12] "POST / HTTP/1.0" 200 -
+09/22/2023 07:12:36 PM Domain entered: luvrideshare.com
+09/22/2023 07:12:49 PM 127.0.0.1 - - [22/Sep/2023 19:12:49] "POST / HTTP/1.0" 200 -
+09/22/2023 07:14:54 PM Domain entered: blehman.dev
+09/22/2023 07:15:33 PM 127.0.0.1 - - [22/Sep/2023 19:15:33] "POST / HTTP/1.0" 200 -
+09/22/2023 07:16:12 PM Domain entered: blehman.dev
+09/22/2023 07:17:01 PM Domain entered: blehman.dev
+09/22/2023 07:17:04 PM 127.0.0.1 - - [22/Sep/2023 19:17:04] "POST / HTTP/1.0" 200 -
+09/22/2023 07:17:17 PM 127.0.0.1 - - [22/Sep/2023 19:17:17] "POST / HTTP/1.0" 200 -
+09/22/2023 07:17:55 PM Domain entered: blehman.dev
+09/22/2023 07:18:46 PM 127.0.0.1 - - [22/Sep/2023 19:18:46] "POST / HTTP/1.0" 200 -
+09/22/2023 07:20:03 PM Domain entered: luvrideshare.com
+09/22/2023 07:20:21 PM 127.0.0.1 - - [22/Sep/2023 19:20:21] "POST / HTTP/1.0" 200 -
+09/22/2023 07:23:14 PM Domain entered: https://www.mr3consulting.com
+09/22/2023 07:23:19 PM 127.0.0.1 - - [22/Sep/2023 19:23:19] "POST / HTTP/1.0" 200 -
+09/22/2023 07:26:17 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09/22/2023 07:26:17 PM [33mPress CTRL+C to quit[0m
+09/22/2023 07:26:27 PM Domain entered: https://www.mr3consulting.com
+09/22/2023 07:26:28 PM 127.0.0.1 - - [22/Sep/2023 19:26:28] "POST / HTTP/1.0" 200 -
+09/22/2023 07:26:32 PM Domain entered: https://www.mr3consulting.com
+09/22/2023 07:26:33 PM 127.0.0.1 - - [22/Sep/2023 19:26:33] "POST / HTTP/1.0" 200 -
+09/22/2023 07:27:00 PM Domain entered: www.mr3consulting.com
+09/22/2023 07:27:00 PM 127.0.0.1 - - [22/Sep/2023 19:27:00] "POST / HTTP/1.0" 200 -
+09/22/2023 07:27:28 PM Domain entered: www.mr3consulting.com
+09/22/2023 07:27:28 PM 127.0.0.1 - - [22/Sep/2023 19:27:28] "POST / HTTP/1.0" 200 -
+09/22/2023 07:28:17 PM Domain entered: None
+09/22/2023 07:28:17 PM 127.0.0.1 - - [22/Sep/2023 19:28:17] "POST / HTTP/1.0" 200 -
