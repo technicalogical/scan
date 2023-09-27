@@ -33,14 +33,14 @@
     <div class="columns">
         <div class="column">
             <div class="box">
-                <h1>Results for {{ results.domain }}</h1>
+                <h1 class="is-size-2">Results for {{ domain }}</h1></div</br>
         {% if 'protocol' in checks %}
-            <h2>Protocol: </h2>
+            <h2 class="has-text-weight-bold">Protocol: </h2>
         <p style="color: {{ results.protocol.color }};"> {{ results.protocol.protocol }}</p>
         {% endif %}
 
         {% if 'technology' in checks %}
-            <h2>Technologies:</h2>
+            <h2 class="has-text-weight-bold">Technologies:</h2>
             <ul>
             {% for tech, details in results.technologies.items() %}
                 <li>{{ tech }}: {{ details|join(', ') }}</li>
@@ -49,15 +49,15 @@
         {% endif %}
 
         {% if 'ports' in checks %}
-            <h2>Open ports:</h2>
+            <h2 class="has-text-weight-bold">Open ports:</h2>
             <p>{{ results.open_ports|join(', ') }}</p>
         {% endif %}
         {% if 'hosting' in checks %}
-            <h2>Hosting info:</h2>
+            <h2 class="has-text-weight-bold">Hosting info:</h2>
             <pre>{{ results.hosting }}</pre>
         {% endif %}
 	{% if 'ssl' in checks %}
-    	   <h2>SSL info:</h2>
+    	   <h2 class="has-text-weight-bold">SSL info:</h2>
     	   <p>Issuer: {{ results.ssl.issuer }}</p>
     	   <p>Validity start: {{ results.ssl.validity_start }}</p>
 	   <p>Validity end: {{ results.ssl.validity_end }}</p>
@@ -70,10 +70,10 @@
         <div class="column">
 <div class="box">
     {% if 'mixed_content' in checks %}
-    <h2>Pages with mixed content: {{ results['mixed_content']['num_bad_pages'] }}</h2>
+    <h2 class="has-text-weight-bold">Pages with mixed content: {{ results['mixed_content']['num_bad_pages'] }}</h2>
     <!-- Your existing code to list bad pages... -->
 
-    <h2>Pages without mixed content: {{ results['mixed_content']['num_good_pages'] }}</h2>
+    <h2 class="has-text-weight-bold">Pages without mixed content: {{ results['mixed_content']['num_good_pages'] }}</h2>
         <h2>Pages with mixed content:</h2>
         <ul>
         {% for page, details in results['mixed_content']['mixed'].items() %}

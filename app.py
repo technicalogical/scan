@@ -56,7 +56,7 @@ def home():
         if 'ssl' in checks:
             results['ssl'] = check_ssl(domain)
 
-        return render_template('index.html', results=results, checks=checks)
+        return render_template('index.html', results=results, checks=checks, domain=domain)
     return render_template('index.html')
 
 def check_protocol(domain):
