@@ -16,12 +16,12 @@
 	<input class="input is-primary" name="domain" type="text" placeholder="Enter Domain">
         </div>
 	<div class="field">
-	<label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="protocol" > Check protocol</label>
-        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="technology" > Check technology</label>
-        <div class="is-hidden"><label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="ports" > Check open ports</label></div>
-        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="hosting" > Check hosting info</label>
-        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="ssl" > Check SSL</label>
-	<label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="mixed_content" > Check for mixed content</label></br>
+	<label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="protocol" checked> Redirect</label>
+        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="technology" > Site Software</label>
+        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="ports" > Open Ports</label>
+        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="hosting" checked> Hosting Info</label>
+        <label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="ssl" checked> SSL Check</label>
+	<label class="checkbox"><input class="checkbox" type="checkbox" name="checks" value="mixed_content" checked> Mixed Content Scan</label></br>
         </div>
 	<div class="field">
 	<button class="button is-primary"  type="submit">Scan</button>
@@ -32,14 +32,12 @@
     {% if results %}
     <div class="columns">
         <div class="column">
-<div class="box">
+            <div class="box">
         {% if 'protocol' in checks %}
             <h2>Protocol: </h2>
         <p style="color: {{ results.protocol.color }};"> {{ results.protocol.protocol }}</p>
-        {% endif %}</div>
-    </div>
-    <div class="column">
-<div class="box">
+        {% endif %}
+
         {% if 'technology' in checks %}
             <h2>Technologies:</h2>
             <ul>
@@ -47,34 +45,26 @@
                 <li>{{ tech }}: {{ details|join(', ') }}</li>
             {% endfor %}
             </ul>
-        {% endif %}</div>
-        </div>
-        <div class="column">
-<div class="box">
+        {% endif %}
+
         {% if 'ports' in checks %}
             <h2>Open ports:</h2>
             <p>{{ results.open_ports|join(', ') }}</p>
-        {% endif %}</div>
-        </div>
-        <div class="column">
-<div class="box">
+        {% endif %}
         {% if 'hosting' in checks %}
             <h2>Hosting info:</h2>
             <pre>{{ results.hosting }}</pre>
-        {% endif %}</div>
-        </div>
-        
-            <div class="column">        
-<div class="box">
+        {% endif %}
 	{% if 'ssl' in checks %}
     	   <h2>SSL info:</h2>
     	   <p>Issuer: {{ results.ssl.issuer }}</p>
     	   <p>Validity start: {{ results.ssl.validity_start }}</p>
 	   <p>Validity end: {{ results.ssl.validity_end }}</p>
     	   <p>Serial number: {{ results.ssl.serial_number }}</p>
-	{% endif %}</div>
-    </div>
-    </div>
+	{% endif %}
+</div>
+</div>
+</div>
     <div class="columns">
         <div class="column">
 <div class="box">
@@ -105,6 +95,6 @@
 </div>
 </div>
     {% endif %}
-</div>
+
 </body>
 </html>
