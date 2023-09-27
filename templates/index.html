@@ -33,6 +33,7 @@
     <div class="columns">
         <div class="column">
             <div class="box">
+                <h1>Results for {{ results.domain }}</h1>
         {% if 'protocol' in checks %}
             <h2>Protocol: </h2>
         <p style="color: {{ results.protocol.color }};"> {{ results.protocol.protocol }}</p>
